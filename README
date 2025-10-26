@@ -1,0 +1,3 @@
+Esta carpeta posee las secuencias problema para las que calculé el valor Phred y realicé los correspondientes gráficos
+el programa Phred.py contiene el código que calcula los valores numéricos, mientras que graficas_phred.py es el 
+código con el que se obtienen las gráficas necesarias para una mejor comparación visual.
